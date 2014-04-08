@@ -1,0 +1,1 @@
+Seance 1 : Prise en main du sujet et des outils utilisés. Création du dépot 	git.
